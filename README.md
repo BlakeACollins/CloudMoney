@@ -1,3 +1,3 @@
-# Glozzem
+# CloudMoney
 
-A multi-page theme with a carousel, modal window, and auto playing video.
+A multi-page theme with a carousel, modal window, auto playing video, accordions, and a blog section.
